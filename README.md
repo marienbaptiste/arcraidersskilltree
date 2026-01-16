@@ -41,9 +41,10 @@ npm install
 
 3. Set up environment variables (optional, for edit mode):
 
+Create a `.env.local` file and add:
+
 ```bash
-cp .env.local.example .env.local
-# Add NEXT_PUBLIC_ENABLE_EDIT_MODE=true to .env.local for skill editing features
+NEXT_PUBLIC_ENABLE_EDIT_MODE=true
 ```
 
 4. Run the development server:
@@ -88,9 +89,11 @@ Adding new skills requires local development setup and running processing script
 #### Prerequisites
 - Python 3.x installed locally
 - `.env.local` file with edit mode enabled:
+
+  Create a `.env.local` file and add:
+
   ```bash
-  cp .env.local.example .env.local
-  echo "NEXT_PUBLIC_ENABLE_EDIT_MODE=true" >> .env.local
+  NEXT_PUBLIC_ENABLE_EDIT_MODE=true
   ```
 
 #### Steps to Add a New Skill
