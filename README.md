@@ -1,4 +1,4 @@
-# Skill Tree Planner
+# Arc Raiders Skill Tree Planner
 
 An interactive skill tree planner for the game Arc Raiders™ built with React, Next.js, TypeScript, Tailwind CSS, and Framer Motion.
 
