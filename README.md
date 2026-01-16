@@ -2,6 +2,8 @@
 
 An interactive skill tree planner built with React, Next.js, TypeScript, Tailwind CSS, and Framer Motion.
 
+*This is a fan-made project and is not affiliated with Embark Studios.*
+
 ![Skill Tree Planner](githubimg.png)
 
 ## Features
