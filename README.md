@@ -2,6 +2,8 @@
 
 An interactive skill tree planner built with React, Next.js, TypeScript, Tailwind CSS, and Framer Motion.
 
+![Skill Tree Planner](githubimg.png)
+
 ## Features
 
 - **Interactive Skill Trees**: Two separate skill trees (Tree A and Tree B) with multiple branches
