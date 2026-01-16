@@ -2,7 +2,7 @@
 
 An interactive skill tree planner for the game Arc Raiders™ built with React, Next.js, TypeScript, Tailwind CSS, and Framer Motion.
 
-*This is an unofficial fan-made calculator and is not affiliated with or endorsed by Embark Studios. All assets have been recreated no proprietary file is used in this project*
+*This is an unofficial fan-made calculator and is not affiliated with or endorsed by Embark Studios. All assets have been recreated, and no proprietary file is used in this project*
 
 ![Skill Tree Planner](githubimg.png)
 
