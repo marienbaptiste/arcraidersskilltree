@@ -143,8 +143,7 @@ Replace `assets/ARtreeforweb.svg` with your custom SVG. Ensure:
 
 ### Adding PNG Icons
 
-1. Place PNG icons in `public/resources/icons/`
-2. Update skill nodes in `skillData.ts` with `iconPath: '/resources/icons/your-icon.png'`
+Place PNG icons in `public/icons/` (named as `skill_icon_*.png`). In edit mode, you can select icons for skill nodes via the UI.
 
 ### Styling
 
