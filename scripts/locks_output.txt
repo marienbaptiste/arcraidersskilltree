@@ -1,0 +1,353 @@
+{/* All Lock Icons - 16 total across all trees */}
+<g id="all-lock-icons">
+  {/* Tree A lock 2-3 */}
+  <g id="lock-a-2-3" visibility="hidden"
+         style={{ display: "inline" }}
+         transform="translate(-34.969545,133.64048)"><ellipse
+           style={{ opacity: 1, mixBlendMode: "normal", fill: "#6c7074", fillOpacity: 1, fillRule: "nonzero", stroke: "#6c7074", strokeWidth: 0.9, strokeDasharray: "none", strokeOpacity: 1, filter: "url(#filter110-2-1-7)" }}
+           id="path103-8-9-79"
+           cx="221.57201"
+           cy="247.53424"
+           rx="5.3743491"
+           ry="5.1593747" /><rect
+           style={{ opacity: 1, fill: "#090c19", fillOpacity: 1, stroke: "none", strokeWidth: 0.899999, filter: "url(#filter105-1-2-1)" }}
+           id="rect103-9-6-5"
+           width="4.8520966"
+           height="3.1253905"
+           x="219.17422"
+           y="247.36888"
+           ry="0.14882609"
+           rx="0.14882812" /><path
+           style={{ opacity: 1, fill: "none", fillOpacity: 1, stroke: "#090c19", strokeWidth: 0.8, strokeLinecap: "round", strokeMiterlimit: 3.9, strokeDasharray: "none", strokeOpacity: 1, filter: "url(#filter106-6-1-8)" }}
+           d="m 220.41445,246.50898 c 0,0 -0.1819,-1.83555 1.20716,-1.81901 1.38906,0.0165 1.20716,1.81901 1.20716,1.81901"
+           id="path104-3-8-5" /></g>
+
+  {/* Tree A lock 1-3 */}
+  <g id="lock-a-1-3" visibility="hidden"
+         style={{ display: "inline" }}
+         transform="translate(-31.389998,69.838135)"><ellipse
+           style={{ opacity: 1, mixBlendMode: "normal", fill: "#6c7074", fillOpacity: 1, fillRule: "nonzero", stroke: "#6c7074", strokeWidth: 0.9, strokeDasharray: "none", strokeOpacity: 1, filter: "url(#filter110-2-1-7-4)" }}
+           id="path103-8-9-79-1"
+           cx="221.57201"
+           cy="247.53424"
+           rx="5.3743491"
+           ry="5.1593747" /><rect
+           style={{ opacity: 1, fill: "#090c19", fillOpacity: 1, stroke: "none", strokeWidth: 0.899999, filter: "url(#filter105-1-2-1-3)" }}
+           id="rect103-9-6-5-6"
+           width="4.8520966"
+           height="3.1253905"
+           x="219.17422"
+           y="247.36888"
+           ry="0.14882609"
+           rx="0.14882812" /><path
+           style={{ opacity: 1, fill: "none", fillOpacity: 1, stroke: "#090c19", strokeWidth: 0.8, strokeLinecap: "round", strokeMiterlimit: 3.9, strokeDasharray: "none", strokeOpacity: 1, filter: "url(#filter106-6-1-8-2)" }}
+           d="m 220.41445,246.50898 c 0,0 -0.1819,-1.83555 1.20716,-1.81901 1.38906,0.0165 1.20716,1.81901 1.20716,1.81901"
+           id="path104-3-8-5-3" /></g>
+
+  {/* Tree A lock 2-6 3-3 */}
+  <g id="lock-a-2-6 3-3" visibility="hidden"
+         style={{ display: "inline" }}
+         transform="translate(-167.63311,124.05908)"><ellipse
+           style={{ opacity: 1, mixBlendMode: "normal", fill: "#6c7074", fillOpacity: 1, fillRule: "nonzero", stroke: "#6c7074", strokeWidth: 0.9, strokeDasharray: "none", strokeOpacity: 1, filter: "url(#filter110-2-1-7-4-9)" }}
+           id="path103-8-9-79-1-3"
+           cx="221.57201"
+           cy="247.53424"
+           rx="5.3743491"
+           ry="5.1593747" /><rect
+           style={{ opacity: 1, fill: "#090c19", fillOpacity: 1, stroke: "none", strokeWidth: 0.899999, filter: "url(#filter105-1-2-1-3-8)" }}
+           id="rect103-9-6-5-6-0"
+           width="4.8520966"
+           height="3.1253905"
+           x="219.17422"
+           y="247.36888"
+           ry="0.14882609"
+           rx="0.14882812" /><path
+           style={{ opacity: 1, fill: "none", fillOpacity: 1, stroke: "#090c19", strokeWidth: 0.8, strokeLinecap: "round", strokeMiterlimit: 3.9, strokeDasharray: "none", strokeOpacity: 1, filter: "url(#filter106-6-1-8-2-8)" }}
+           d="m 220.41445,246.50898 c 0,0 -0.1819,-1.83555 1.20716,-1.81901 1.38906,0.0165 1.20716,1.81901 1.20716,1.81901"
+           id="path104-3-8-5-3-7" /></g>
+
+  {/* Tree A lock 1-6 3-3 */}
+  <g id="lock-a-1-6 3-3" visibility="hidden"
+         style={{ display: "inline" }}
+         transform="translate(-161.7236,60.537817)"><ellipse
+           style={{ opacity: 1, mixBlendMode: "normal", fill: "#6c7074", fillOpacity: 1, fillRule: "nonzero", stroke: "#6c7074", strokeWidth: 0.9, strokeDasharray: "none", strokeOpacity: 1, filter: "url(#filter110-2-1-7-4-9-9)" }}
+           id="path103-8-9-79-1-3-9"
+           cx="221.57201"
+           cy="247.53424"
+           rx="5.3743491"
+           ry="5.1593747" /><rect
+           style={{ opacity: 1, fill: "#090c19", fillOpacity: 1, stroke: "none", strokeWidth: 0.899999, filter: "url(#filter105-1-2-1-3-8-3)" }}
+           id="rect103-9-6-5-6-0-8"
+           width="4.8520966"
+           height="3.1253905"
+           x="219.17422"
+           y="247.36888"
+           ry="0.14882609"
+           rx="0.14882812" /><path
+           style={{ opacity: 1, fill: "none", fillOpacity: 1, stroke: "#090c19", strokeWidth: 0.8, strokeLinecap: "round", strokeMiterlimit: 3.9, strokeDasharray: "none", strokeOpacity: 1, filter: "url(#filter106-6-1-8-2-8-0)" }}
+           d="m 220.41445,246.50898 c 0,0 -0.1819,-1.83555 1.20716,-1.81901 1.38906,0.0165 1.20716,1.81901 1.20716,1.81901"
+           id="path104-3-8-5-3-7-5" /></g>
+
+  {/* Tree B lock 1-3 */}
+  <g id="lock-b-1-3" visibility="hidden"><ellipse
+           style={{ opacity: 1, mixBlendMode: "normal", fill: "#6c7074", fillOpacity: 1, fillRule: "nonzero", stroke: "#6c7074", strokeWidth: 0.9, strokeDasharray: "none", strokeOpacity: 1, filter: "url(#filter110)" }}
+           id="path103"
+           cx="221.57201"
+           cy="247.53424"
+           rx="5.3743491"
+           ry="5.1593747" /><rect
+           style={{ opacity: 1, fill: "#090c19", fillOpacity: 1, stroke: "none", strokeWidth: 0.899999, filter: "url(#filter105)" }}
+           id="rect103"
+           width="4.8520966"
+           height="3.1253905"
+           x="219.17422"
+           y="247.36888"
+           ry="0.14882609"
+           rx="0.14882812" /><path
+           style={{ opacity: 1, fill: "none", fillOpacity: 1, stroke: "#090c19", strokeWidth: 0.8, strokeLinecap: "round", strokeMiterlimit: 3.9, strokeDasharray: "none", strokeOpacity: 1, filter: "url(#filter106)" }}
+           d="m 220.41445,246.50898 c 0,0 -0.1819,-1.83555 1.20716,-1.81901 1.38906,0.0165 1.20716,1.81901 1.20716,1.81901"
+           id="path104" /></g>
+
+  {/* Tree B lock 2-3 */}
+  <g id="lock-b-2-3" visibility="hidden"
+         style={{ display: "inline" }}
+         transform="translate(31.600865,-55.033637)"><ellipse
+           style={{ opacity: 1, mixBlendMode: "normal", fill: "#6c7074", fillOpacity: 1, fillRule: "nonzero", stroke: "#6c7074", strokeWidth: 0.9, strokeDasharray: "none", strokeOpacity: 1, filter: "url(#filter110-2)" }}
+           id="path103-8"
+           cx="221.57201"
+           cy="247.53424"
+           rx="5.3743491"
+           ry="5.1593747" /><rect
+           style={{ opacity: 1, fill: "#090c19", fillOpacity: 1, stroke: "none", strokeWidth: 0.899999, filter: "url(#filter105-1)" }}
+           id="rect103-9"
+           width="4.8520966"
+           height="3.1253905"
+           x="219.17422"
+           y="247.36888"
+           ry="0.14882609"
+           rx="0.14882812" /><path
+           style={{ opacity: 1, fill: "none", fillOpacity: 1, stroke: "#090c19", strokeWidth: 0.8, strokeLinecap: "round", strokeMiterlimit: 3.9, strokeDasharray: "none", strokeOpacity: 1, filter: "url(#filter106-6)" }}
+           d="m 220.41445,246.50898 c 0,0 -0.1819,-1.83555 1.20716,-1.81901 1.38906,0.0165 1.20716,1.81901 1.20716,1.81901"
+           id="path104-3" /></g>
+
+  {/* Tree B lock 2-6 3-3 */}
+  <g id="lock-b-2-6 3-3" visibility="hidden"
+         style={{ display: "inline" }}
+         transform="translate(-82.302265,-121.31177)"><ellipse
+           style={{ opacity: 1, mixBlendMode: "normal", fill: "#6c7074", fillOpacity: 1, fillRule: "nonzero", stroke: "#6c7074", strokeWidth: 0.9, strokeDasharray: "none", strokeOpacity: 1, filter: "url(#filter110-2-1)" }}
+           id="path103-8-9"
+           cx="221.57201"
+           cy="247.53424"
+           rx="5.3743491"
+           ry="5.1593747" /><rect
+           style={{ opacity: 1, fill: "#090c19", fillOpacity: 1, stroke: "none", strokeWidth: 0.899999, filter: "url(#filter105-1-2)" }}
+           id="rect103-9-6"
+           width="4.8520966"
+           height="3.1253905"
+           x="219.17422"
+           y="247.36888"
+           ry="0.14882609"
+           rx="0.14882812" /><path
+           style={{ opacity: 1, fill: "none", fillOpacity: 1, stroke: "#090c19", strokeWidth: 0.8, strokeLinecap: "round", strokeMiterlimit: 3.9, strokeDasharray: "none", strokeOpacity: 1, filter: "url(#filter106-6-1)" }}
+           d="m 220.41445,246.50898 c 0,0 -0.1819,-1.83555 1.20716,-1.81901 1.38906,0.0165 1.20716,1.81901 1.20716,1.81901"
+           id="path104-3-8" /></g>
+
+  {/* Tree B lock 1-6 3-3 */}
+  <g id="lock-b-1-6 3-3" visibility="hidden"
+         style={{ display: "inline" }}
+         transform="translate(-114.31685,-66.013845)"><ellipse
+           style={{ opacity: 1, mixBlendMode: "normal", fill: "#6c7074", fillOpacity: 1, fillRule: "nonzero", stroke: "#6c7074", strokeWidth: 0.9, strokeDasharray: "none", strokeOpacity: 1, filter: "url(#filter110-2-1-1)" }}
+           id="path103-8-9-7"
+           cx="221.57201"
+           cy="247.53424"
+           rx="5.3743491"
+           ry="5.1593747" /><rect
+           style={{ opacity: 1, fill: "#090c19", fillOpacity: 1, stroke: "none", strokeWidth: 0.899999, filter: "url(#filter105-1-2-7)" }}
+           id="rect103-9-6-1"
+           width="4.8520966"
+           height="3.1253905"
+           x="219.17422"
+           y="247.36888"
+           ry="0.14882609"
+           rx="0.14882812" /><path
+           style={{ opacity: 1, fill: "none", fillOpacity: 1, stroke: "#090c19", strokeWidth: 0.8, strokeLinecap: "round", strokeMiterlimit: 3.9, strokeDasharray: "none", strokeOpacity: 1, filter: "url(#filter106-6-1-9)" }}
+           d="m 220.41445,246.50898 c 0,0 -0.1819,-1.83555 1.20716,-1.81901 1.38906,0.0165 1.20716,1.81901 1.20716,1.81901"
+           id="path104-3-8-0" /></g>
+
+  {/* Tree C lock 1-3 */}
+  <g id="lock-c-1-3" visibility="hidden"
+         style={{ display: "inline" }}
+         transform="translate(125.9873,-72.424544)"><ellipse
+           style={{ opacity: 1, mixBlendMode: "normal", fill: "#6c7074", fillOpacity: 1, fillRule: "nonzero", stroke: "#6c7074", strokeWidth: 0.9, strokeDasharray: "none", strokeOpacity: 1, filter: "url(#filter110-2-1-1-2)" }}
+           id="path103-8-9-7-6"
+           cx="221.57201"
+           cy="247.53424"
+           rx="5.3743491"
+           ry="5.1593747" /><rect
+           style={{ opacity: 1, fill: "#090c19", fillOpacity: 1, stroke: "none", strokeWidth: 0.899999, filter: "url(#filter105-1-2-7-2)" }}
+           id="rect103-9-6-1-8"
+           width="4.8520966"
+           height="3.1253905"
+           x="219.17422"
+           y="247.36888"
+           ry="0.14882609"
+           rx="0.14882812" /><path
+           style={{ opacity: 1, fill: "none", fillOpacity: 1, stroke: "#090c19", strokeWidth: 0.8, strokeLinecap: "round", strokeMiterlimit: 3.9, strokeDasharray: "none", strokeOpacity: 1, filter: "url(#filter106-6-1-9-2)" }}
+           d="m 220.41445,246.50898 c 0,0 -0.1819,-1.83555 1.20716,-1.81901 1.38906,0.0165 1.20716,1.81901 1.20716,1.81901"
+           id="path104-3-8-0-5" /></g>
+
+  {/* Tree C lock 2-3 */}
+  <g id="lock-c-2-3" visibility="hidden"
+         style={{ display: "inline" }}
+         transform="translate(168.35671,-71.930312)"><ellipse
+           style={{ opacity: 1, mixBlendMode: "normal", fill: "#6c7074", fillOpacity: 1, fillRule: "nonzero", stroke: "#6c7074", strokeWidth: 0.9, strokeDasharray: "none", strokeOpacity: 1, filter: "url(#filter110-2-1-1-2-0)" }}
+           id="path103-8-9-7-6-5"
+           cx="221.57201"
+           cy="247.53424"
+           rx="5.3743491"
+           ry="5.1593747" /><rect
+           style={{ opacity: 1, fill: "#090c19", fillOpacity: 1, stroke: "none", strokeWidth: 0.899999, filter: "url(#filter105-1-2-7-2-7)" }}
+           id="rect103-9-6-1-8-4"
+           width="4.8520966"
+           height="3.1253905"
+           x="219.17422"
+           y="247.36888"
+           ry="0.14882609"
+           rx="0.14882812" /><path
+           style={{ opacity: 1, fill: "none", fillOpacity: 1, stroke: "#090c19", strokeWidth: 0.8, strokeLinecap: "round", strokeMiterlimit: 3.9, strokeDasharray: "none", strokeOpacity: 1, filter: "url(#filter106-6-1-9-2-2)" }}
+           d="m 220.41445,246.50898 c 0,0 -0.1819,-1.83555 1.20716,-1.81901 1.38906,0.0165 1.20716,1.81901 1.20716,1.81901"
+           id="path104-3-8-0-5-7" /></g>
+
+  {/* Tree C lock 1-6 3-3 */}
+  <g id="lock-c-1-6 3-3" visibility="hidden"
+         style={{ display: "inline" }}
+         transform="translate(126.31228,-184.59419)"><ellipse
+           style={{ opacity: 1, mixBlendMode: "normal", fill: "#6c7074", fillOpacity: 1, fillRule: "nonzero", stroke: "#6c7074", strokeWidth: 0.9, strokeDasharray: "none", strokeOpacity: 1, filter: "url(#filter110-2-1-1-2-2)" }}
+           id="path103-8-9-7-6-7"
+           cx="221.57201"
+           cy="247.53424"
+           rx="5.3743491"
+           ry="5.1593747" /><rect
+           style={{ opacity: 1, fill: "#090c19", fillOpacity: 1, stroke: "none", strokeWidth: 0.899999, filter: "url(#filter105-1-2-7-2-5)" }}
+           id="rect103-9-6-1-8-2"
+           width="4.8520966"
+           height="3.1253905"
+           x="219.17422"
+           y="247.36888"
+           ry="0.14882609"
+           rx="0.14882812" /><path
+           style={{ opacity: 1, fill: "none", fillOpacity: 1, stroke: "#090c19", strokeWidth: 0.8, strokeLinecap: "round", strokeMiterlimit: 3.9, strokeDasharray: "none", strokeOpacity: 1, filter: "url(#filter106-6-1-9-2-8)" }}
+           d="m 220.41445,246.50898 c 0,0 -0.1819,-1.83555 1.20716,-1.81901 1.38906,0.0165 1.20716,1.81901 1.20716,1.81901"
+           id="path104-3-8-0-5-5" /></g>
+
+  {/* Tree C lock 2-6 3-3 */}
+  <g id="lock-c-2-6 3-3" visibility="hidden"
+         style={{ display: "inline" }}
+         transform="translate(168.75428,-185.34576)"><ellipse
+           style={{ opacity: 1, mixBlendMode: "normal", fill: "#6c7074", fillOpacity: 1, fillRule: "nonzero", stroke: "#6c7074", strokeWidth: 0.9, strokeDasharray: "none", strokeOpacity: 1, filter: "url(#filter110-2-1-1-2-2-4)" }}
+           id="path103-8-9-7-6-7-9"
+           cx="221.57201"
+           cy="247.53424"
+           rx="5.3743491"
+           ry="5.1593747" /><rect
+           style={{ opacity: 1, fill: "#090c19", fillOpacity: 1, stroke: "none", strokeWidth: 0.899999, filter: "url(#filter105-1-2-7-2-5-2)" }}
+           id="rect103-9-6-1-8-2-5"
+           width="4.8520966"
+           height="3.1253905"
+           x="219.17422"
+           y="247.36888"
+           ry="0.14882609"
+           rx="0.14882812" /><path
+           style={{ opacity: 1, fill: "none", fillOpacity: 1, stroke: "#090c19", strokeWidth: 0.8, strokeLinecap: "round", strokeMiterlimit: 3.9, strokeDasharray: "none", strokeOpacity: 1, filter: "url(#filter106-6-1-9-2-8-3)" }}
+           d="m 220.41445,246.50898 c 0,0 -0.1819,-1.83555 1.20716,-1.81901 1.38906,0.0165 1.20716,1.81901 1.20716,1.81901"
+           id="path104-3-8-0-5-5-7" /></g>
+
+  {/* Tree D lock 2-3 */}
+  <g id="lock-d-2-3" visibility="hidden"
+         style={{ display: "inline" }}
+         transform="translate(279.08136,-44.725905)"><ellipse
+           style={{ opacity: 1, mixBlendMode: "normal", fill: "#6c7074", fillOpacity: 1, fillRule: "nonzero", stroke: "#6c7074", strokeWidth: 0.9, strokeDasharray: "none", strokeOpacity: 1, filter: "url(#filter110-2-1-1-2-2-2)" }}
+           id="path103-8-9-7-6-7-2"
+           cx="221.57201"
+           cy="247.53424"
+           rx="5.3743491"
+           ry="5.1593747" /><rect
+           style={{ opacity: 1, fill: "#090c19", fillOpacity: 1, stroke: "none", strokeWidth: 0.899999, filter: "url(#filter105-1-2-7-2-5-6)" }}
+           id="rect103-9-6-1-8-2-1"
+           width="4.8520966"
+           height="3.1253905"
+           x="219.17422"
+           y="247.36888"
+           ry="0.14882609"
+           rx="0.14882812" /><path
+           style={{ opacity: 1, fill: "none", fillOpacity: 1, stroke: "#090c19", strokeWidth: 0.8, strokeLinecap: "round", strokeMiterlimit: 3.9, strokeDasharray: "none", strokeOpacity: 1, filter: "url(#filter106-6-1-9-2-8-2)" }}
+           d="m 220.41445,246.50898 c 0,0 -0.1819,-1.83555 1.20716,-1.81901 1.38906,0.0165 1.20716,1.81901 1.20716,1.81901"
+           id="path104-3-8-0-5-5-0" /></g>
+
+  {/* Tree D lock 1-3 */}
+  <g id="lock-d-1-3" visibility="hidden"
+         style={{ display: "inline" }}
+         transform="translate(311.52653,11.301172)"><ellipse
+           style={{ opacity: 1, mixBlendMode: "normal", fill: "#6c7074", fillOpacity: 1, fillRule: "nonzero", stroke: "#6c7074", strokeWidth: 0.9, strokeDasharray: "none", strokeOpacity: 1, filter: "url(#filter110-2-1-1-2-2-2-0)" }}
+           id="path103-8-9-7-6-7-2-6"
+           cx="221.57201"
+           cy="247.53424"
+           rx="5.3743491"
+           ry="5.1593747" /><rect
+           style={{ opacity: 1, fill: "#090c19", fillOpacity: 1, stroke: "none", strokeWidth: 0.899999, filter: "url(#filter105-1-2-7-2-5-6-2)" }}
+           id="rect103-9-6-1-8-2-1-6"
+           width="4.8520966"
+           height="3.1253905"
+           x="219.17422"
+           y="247.36888"
+           ry="0.14882609"
+           rx="0.14882812" /><path
+           style={{ opacity: 1, fill: "none", fillOpacity: 1, stroke: "#090c19", strokeWidth: 0.8, strokeLinecap: "round", strokeMiterlimit: 3.9, strokeDasharray: "none", strokeOpacity: 1, filter: "url(#filter106-6-1-9-2-8-2-3)" }}
+           d="m 220.41445,246.50898 c 0,0 -0.1819,-1.83555 1.20716,-1.81901 1.38906,0.0165 1.20716,1.81901 1.20716,1.81901"
+           id="path104-3-8-0-5-5-0-8" /></g>
+
+  {/* Tree D lock 1-6 3-3 */}
+  <g id="lock-d-1-6 3-3" visibility="hidden"
+         style={{ display: "inline" }}
+         transform="translate(424.15886,-55.877901)"><ellipse
+           style={{ opacity: 1, mixBlendMode: "normal", fill: "#6c7074", fillOpacity: 1, fillRule: "nonzero", stroke: "#6c7074", strokeWidth: 0.9, strokeDasharray: "none", strokeOpacity: 1, filter: "url(#filter110-2-1-1-2-2-2-1)" }}
+           id="path103-8-9-7-6-7-2-7"
+           cx="221.57201"
+           cy="247.53424"
+           rx="5.3743491"
+           ry="5.1593747" /><rect
+           style={{ opacity: 1, fill: "#090c19", fillOpacity: 1, stroke: "none", strokeWidth: 0.899999, filter: "url(#filter105-1-2-7-2-5-6-5)" }}
+           id="rect103-9-6-1-8-2-1-0"
+           width="4.8520966"
+           height="3.1253905"
+           x="219.17422"
+           y="247.36888"
+           ry="0.14882609"
+           rx="0.14882812" /><path
+           style={{ opacity: 1, fill: "none", fillOpacity: 1, stroke: "#090c19", strokeWidth: 0.8, strokeLinecap: "round", strokeMiterlimit: 3.9, strokeDasharray: "none", strokeOpacity: 1, filter: "url(#filter106-6-1-9-2-8-2-1)" }}
+           d="m 220.41445,246.50898 c 0,0 -0.1819,-1.83555 1.20716,-1.81901 1.38906,0.0165 1.20716,1.81901 1.20716,1.81901"
+           id="path104-3-8-0-5-5-0-2" /></g>
+
+  {/* Tree D lock 2-6 3-3 */}
+  <g id="lock-d-2-6 3-3" visibility="hidden"
+         style={{ display: "inline" }}
+         transform="translate(392.78359,-111.11846)"><ellipse
+           style={{ opacity: 1, mixBlendMode: "normal", fill: "#6c7074", fillOpacity: 1, fillRule: "nonzero", stroke: "#6c7074", strokeWidth: 0.9, strokeDasharray: "none", strokeOpacity: 1, filter: "url(#filter110-2-1-1-2-2-2-1-9)" }}
+           id="path103-8-9-7-6-7-2-7-5"
+           cx="221.57201"
+           cy="247.53424"
+           rx="5.3743491"
+           ry="5.1593747" /><rect
+           style={{ opacity: 1, fill: "#090c19", fillOpacity: 1, stroke: "none", strokeWidth: 0.899999, filter: "url(#filter105-1-2-7-2-5-6-5-2)" }}
+           id="rect103-9-6-1-8-2-1-0-6"
+           width="4.8520966"
+           height="3.1253905"
+           x="219.17422"
+           y="247.36888"
+           ry="0.14882609"
+           rx="0.14882812" /><path
+           style={{ opacity: 1, fill: "none", fillOpacity: 1, stroke: "#090c19", strokeWidth: 0.8, strokeLinecap: "round", strokeMiterlimit: 3.9, strokeDasharray: "none", strokeOpacity: 1, filter: "url(#filter106-6-1-9-2-8-2-1-6)" }}
+           d="m 220.41445,246.50898 c 0,0 -0.1819,-1.83555 1.20716,-1.81901 1.38906,0.0165 1.20716,1.81901 1.20716,1.81901"
+           id="path104-3-8-0-5-5-0-2-1" /></g>
+
+</g>

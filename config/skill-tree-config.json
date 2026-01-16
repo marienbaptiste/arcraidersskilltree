@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "timestamp": "2025-01-16T00:00:00.000Z",
+  "trees": {
+    "A": {
+      "name": "Tree A",
+      "color": "#10b981"
+    },
+    "B": {
+      "name": "Tree B",
+      "color": "#22c55e"
+    },
+    "C": {
+      "name": "Tree C",
+      "color": "#22c55e"
+    },
+    "D": {
+      "name": "Tree D",
+      "color": "#22c55e"
+    }
+  },
+  "nodeOverrides": {}
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Arc Raiders Skill Tree Calculator",
+  "short_name": "Arc Raiders Skills",
+  "description": "The definitive Arc Raiders skill tree calculator and planner",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#090C19",
+  "theme_color": "#050709",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "16x16 32x32 48x48 64x64 128x128 256x256",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

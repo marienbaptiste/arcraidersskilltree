@@ -1,0 +1,432 @@
+{
+  "version": "1.0.0",
+  "trees": {
+    "A": {
+      "name": "PATHFINDING",
+      "color": "#93FFF9",
+      "visible": true
+    },
+    "B": {
+      "name": "CONDITIONING",
+      "color": "#00D86D",
+      "visible": true
+    },
+    "C": {
+      "name": "MOBILITY",
+      "color": "#ffd400",
+      "visible": true
+    },
+    "D": {
+      "name": "SURVIVAL",
+      "color": "#FF0000",
+      "visible": true
+    }
+  },
+  "nodeOverrides": {
+    "tree-a-node-2-1": {
+      "name": "Branch 2-1",
+      "description": "First step in branch 2",
+      "maxPoints": 1,
+      "pointsRequiredInTree": 0,
+      "iconPath": ""
+    },
+    "tree-c-node-0": {
+      "name": "Nimble Climber",
+      "description": "You can climb and vault more quickly.",
+      "maxPoints": 5,
+      "pointsRequiredInTree": 0,
+      "iconPath": "/icons/skill_icon_16.png"
+    },
+    "tree-b-node-0": {
+      "name": "Used To The Weight",
+      "description": "Wearing a shield doesn't slow you down as much.",
+      "maxPoints": 5,
+      "pointsRequiredInTree": 0,
+      "iconPath": "/icons/skill_icon_31.png",
+      "comment": ""
+    },
+    "tree-d-node-0": {
+      "name": "Agile Croucher",
+      "description": "Your movement speed while crouching is increased.",
+      "maxPoints": 5,
+      "pointsRequiredInTree": 0,
+      "iconPath": "/icons/skill_icon_1.png"
+    },
+    "tree-b-node-1-1": {
+      "name": "Blast-Born",
+      "description": "Status effect last less.",
+      "maxPoints": 5,
+      "pointsRequiredInTree": 0,
+      "iconPath": "/icons/skill_icon_32.png",
+      "comment": "Includes the sound from explosions. Making this node actually useful."
+    },
+    "tree-b-node-1-2": {
+      "name": "Fight Or Flight",
+      "description": "When you're hurt in combat, regain a fixed amount of stamina. Has cooldown between uses.",
+      "maxPoints": 5,
+      "pointsRequiredInTree": 0,
+      "iconPath": "/icons/skill_icon_33.png",
+      "comment": ""
+    },
+    "tree-b-node-1-3": {
+      "name": "In the zone",
+      "description": "When you're critically hurt, your stamina regenerates faster.",
+      "maxPoints": 1,
+      "pointsRequiredInTree": 15,
+      "iconPath": "/icons/skill_icon_7.png",
+      "comment": "Looting multiple containers in a row increases the speed at which the loot is revealed."
+    },
+    "tree-b-node-1-4": {
+      "name": "Downed But Determined",
+      "description": "When you're downed, it takes longer before you collapse.",
+      "maxPoints": 5,
+      "pointsRequiredInTree": 0,
+      "iconPath": "/icons/skill_icon_35.png",
+      "comment": ""
+    },
+    "tree-b-node-1-5": {
+      "name": "Turtle Crawl",
+      "description": "While downed, you take less damage.",
+      "maxPoints": 5,
+      "pointsRequiredInTree": 0,
+      "iconPath": "/icons/skill_icon_36.png",
+      "comment": ""
+    },
+    "tree-b-node-1-6-3-3": {
+      "name": "Heard no bell yet",
+      "description": "When you're downed. You can recover with one single hit point after 20 seconds. Can occur only once per match. Consumes a defibrillator.",
+      "maxPoints": 1,
+      "pointsRequiredInTree": 36,
+      "iconPath": "/icons/skill_icon_25.png",
+      "comment": "Previous iteration was way too low impact for a capstone."
+    },
+    "tree-b-node-2-1": {
+      "name": "Gentle Pressure",
+      "description": "You make less noise when breaching.",
+      "maxPoints": 5,
+      "pointsRequiredInTree": 0,
+      "iconPath": "/icons/skill_icon_40.png",
+      "comment": ""
+    },
+    "tree-b-node-2-2": {
+      "name": "Proficient Pryer",
+      "description": "Breaching doors and containers takes less time.",
+      "maxPoints": 5,
+      "pointsRequiredInTree": 0,
+      "iconPath": "/icons/skill_icon_41.png",
+      "comment": ""
+    },
+    "tree-b-node-2-3": {
+      "name": "Unburdened Roll",
+      "description": "If your shield breaks, your first Dodge Roll within a few seconds does not cost stamina.",
+      "maxPoints": 1,
+      "pointsRequiredInTree": 15,
+      "iconPath": "/icons/skill_icon_42.png",
+      "comment": ""
+    },
+    "tree-b-node-3-1": {
+      "name": "A Little Extra",
+      "description": "Breaching an object generates resources.",
+      "maxPoints": 5,
+      "pointsRequiredInTree": 0,
+      "iconPath": "/icons/skill_icon_38.png",
+      "comment": ""
+    },
+    "tree-b-node-3-2": {
+      "name": "Loaded Arms",
+      "description": "Your equipped weapon has less impact on your encumbrance.",
+      "maxPoints": 1,
+      "pointsRequiredInTree": 0,
+      "iconPath": "/icons/skill_icon_39.png",
+      "comment": ""
+    },
+    "tree-b-node-2-4": {
+      "name": "Effortless Swing",
+      "description": "Melee abilities cost less stamina",
+      "maxPoints": 5,
+      "pointsRequiredInTree": 0,
+      "iconPath": "/icons/skill_icon_43.png",
+      "comment": ""
+    },
+    "tree-b-node-2-5": {
+      "name": "Sky-Clearing Swing",
+      "description": "You deal more melee damage to drones.",
+      "maxPoints": 5,
+      "pointsRequiredInTree": 0,
+      "iconPath": "/icons/skill_icon_44.png",
+      "comment": ""
+    },
+    "tree-b-node-2-6-3-3": {
+      "name": "Back On Your Feet",
+      "description": "When you're critically hurt, your health regenerates until a certain limit.",
+      "maxPoints": 1,
+      "pointsRequiredInTree": 36,
+      "iconPath": "/icons/skill_icon_37.png",
+      "comment": "Synergy with the other capstone."
+    },
+    "tree-c-node-1-3": {
+      "name": "Carry The Momentum",
+      "description": "After a Sprint Dodge Roll, sprinting does not consume stamina for a short time. Has a cooldown between uses.",
+      "maxPoints": 1,
+      "pointsRequiredInTree": 15,
+      "iconPath": "/icons/skill_icon_21.png",
+      "comment": ""
+    },
+    "tree-c-node-2-3": {
+      "name": "Calming Stroll",
+      "description": "When fully exhausted, your stamina restarts regenerating faster.",
+      "maxPoints": 1,
+      "pointsRequiredInTree": 15,
+      "iconPath": "/icons/skill_icon_22.png",
+      "comment": "Apply it to fast walking as well."
+    },
+    "tree-c-node-1-1": {
+      "name": "Marathon Runner",
+      "description": "Moving around costs less stamina.",
+      "maxPoints": 1,
+      "pointsRequiredInTree": 0,
+      "iconPath": "/icons/skill_icon_17.png",
+      "comment": "5 points were too much for something mandatory in almost every single build."
+    },
+    "tree-c-node-1-2": {
+      "name": "Youthful Lungs",
+      "description": "Increase your max stamina.",
+      "maxPoints": 5,
+      "pointsRequiredInTree": 0,
+      "iconPath": "/icons/skill_icon_19.png",
+      "comment": ""
+    },
+    "tree-c-node-2-1": {
+      "name": "Slip and Slide",
+      "description": "You can slide further and faster.",
+      "maxPoints": 5,
+      "pointsRequiredInTree": 0,
+      "iconPath": "/icons/skill_icon_18.png",
+      "comment": ""
+    },
+    "tree-c-node-2-2": {
+      "name": "Sturdy Ankles",
+      "description": "You take less fall damage when falling from a non-lethal height.",
+      "maxPoints": 5,
+      "pointsRequiredInTree": 0,
+      "iconPath": "/icons/skill_icon_20.png",
+      "comment": ""
+    },
+    "tree-c-node-1-4": {
+      "name": "Off The Wall",
+      "description": "You can Wall Leap further.",
+      "maxPoints": 5,
+      "pointsRequiredInTree": 0,
+      "iconPath": "/icons/skill_icon_27.png",
+      "comment": ""
+    },
+    "tree-c-node-1-5": {
+      "name": "Ready To Roll",
+      "description": "When falling, your timing window to perform a Recovery Roll is increased.",
+      "maxPoints": 5,
+      "pointsRequiredInTree": 0,
+      "iconPath": "/icons/skill_icon_28.png",
+      "comment": ""
+    },
+    "tree-c-node-3-1": {
+      "name": "Crawl Before You Walk",
+      "description": "When you're downed, you crawl faster.",
+      "maxPoints": 5,
+      "pointsRequiredInTree": 0,
+      "iconPath": "/icons/skill_icon_29.png",
+      "comment": ""
+    },
+    "tree-c-node-3-2": {
+      "name": "Vigorous Vaulter",
+      "description": "Vaulting is no longer slowed down while exhausted.",
+      "maxPoints": 1,
+      "pointsRequiredInTree": 0,
+      "iconPath": "/icons/skill_icon_26.png",
+      "comment": ""
+    },
+    "tree-c-node-2-4": {
+      "name": "Effortless Roll",
+      "description": "Dodge Rolls cost less stamina.",
+      "maxPoints": 5,
+      "pointsRequiredInTree": 0,
+      "iconPath": "/icons/skill_icon_23.png",
+      "comment": "Synergy with the capstone."
+    },
+    "tree-c-node-2-5": {
+      "name": "Heroic Leap",
+      "description": "You can Sprint Dodge Roll Further.",
+      "maxPoints": 5,
+      "pointsRequiredInTree": 0,
+      "iconPath": "/icons/skill_icon_24.png",
+      "comment": ""
+    },
+    "tree-c-node-1-6-3-3": {
+      "name": "Sticky hands",
+      "description": "When hitting a vertical wall while falling, you can slide against it for a short period of time.",
+      "maxPoints": 1,
+      "pointsRequiredInTree": 36,
+      "iconPath": "/icons/skill_icon_50.png",
+      "comment": "Something actually meaningful for mobility."
+    },
+    "tree-c-node-2-6-3-3": {
+      "name": "Second Wind",
+      "description": "You immediately recover a part of your stamina is exhausted from running or a capacity.Has a cooldown between uses.",
+      "maxPoints": 1,
+      "pointsRequiredInTree": 36,
+      "iconPath": "/icons/skill_icon_52.png",
+      "comment": ""
+    },
+    "tree-d-node-1-1": {
+      "name": "Revitalizing Squat",
+      "description": "Stamina regeneration while crouched is increased.",
+      "maxPoints": 5,
+      "pointsRequiredInTree": 0,
+      "iconPath": "/icons/skill_icon_4.png",
+      "comment": ""
+    },
+    "tree-d-node-1-2": {
+      "name": "In-round Crafting",
+      "description": "Unlocks the ability to field-craft items while topside.",
+      "maxPoints": 1,
+      "pointsRequiredInTree": 0,
+      "iconPath": "/icons/skill_icon_3.png",
+      "comment": ""
+    },
+    "tree-d-node-1-3": {
+      "name": "Good As New",
+      "description": "While under a healing effect, stamina regeneration is increased.",
+      "maxPoints": 1,
+      "pointsRequiredInTree": 15,
+      "iconPath": "/icons/skill_icon_2.png",
+      "comment": ""
+    },
+    "tree-d-node-2-1": {
+      "name": "Looter's Instincts",
+      "description": "When searching a container, loot is revealed faster.",
+      "maxPoints": 5,
+      "pointsRequiredInTree": 0,
+      "iconPath": "/icons/skill_icon_10.png",
+      "comment": ""
+    },
+    "tree-d-node-2-2": {
+      "name": "Silent Scavenger",
+      "description": "You make less noise when looting.",
+      "maxPoints": 5,
+      "pointsRequiredInTree": 0,
+      "iconPath": "/icons/skill_icon_11.png",
+      "comment": ""
+    },
+    "tree-d-node-2-3": {
+      "name": "Trail Mix",
+      "description": "Fruits, preparation and edible plants regenerate a small amount of your life for 30 seconds. ",
+      "maxPoints": 1,
+      "pointsRequiredInTree": 15,
+      "iconPath": "/icons/skill_icon_53.png",
+      "comment": "Synergy with the other node."
+    },
+    "tree-d-node-2-4": {
+      "name": "Broad Shoulders",
+      "description": "Increases the maximum weight you can carry.",
+      "maxPoints": 5,
+      "pointsRequiredInTree": 0,
+      "iconPath": "/icons/skill_icon_13.png",
+      "comment": ""
+    },
+    "tree-d-node-1-4": {
+      "name": "Stubborn Mule",
+      "description": "Your stamina regeneration is less affected by being over-encumbered.",
+      "maxPoints": 5,
+      "pointsRequiredInTree": 0,
+      "iconPath": "/icons/skill_icon_5.png",
+      "comment": ""
+    },
+    "tree-d-node-1-5": {
+      "name": "Three Deep Breaths",
+      "description": "After an ability drains your stamina, you recover more quickly.",
+      "maxPoints": 5,
+      "pointsRequiredInTree": 0,
+      "iconPath": "/icons/skill_icon_6.png",
+      "comment": ""
+    },
+    "tree-d-node-2-5": {
+      "name": "Looter's Luck",
+      "description": "While looting, there's a chance to reveal twice as many items at once.",
+      "maxPoints": 5,
+      "pointsRequiredInTree": 0,
+      "iconPath": "/icons/skill_icon_14.png",
+      "comment": ""
+    },
+    "tree-d-node-3-1": {
+      "name": "Traveling Tinkerer",
+      "description": "Unlocks additional items to field craft.",
+      "maxPoints": 1,
+      "pointsRequiredInTree": 0,
+      "iconPath": "/icons/skill_icon_8.png",
+      "comment": "A lot of the crafting items are useless. Add more options that could exclusively be crafted topside."
+    },
+    "tree-d-node-3-2": {
+      "name": "One Raider's Scraps",
+      "description": "When looting Raider containers, you have a small chance of finding additional field-crafted items.",
+      "maxPoints": 5,
+      "pointsRequiredInTree": 0,
+      "iconPath": "/icons/skill_icon_9.png",
+      "comment": ""
+    },
+    "tree-d-node-2-6-3-3": {
+      "name": "Security Breach",
+      "description": "Lets you breach Security Lockers.",
+      "maxPoints": 1,
+      "pointsRequiredInTree": 36,
+      "iconPath": "/icons/skill_icon_15.png",
+      "comment": "100% chance to open the locker. Others would have a single very low, loud and slow, chance to succeed without the talent."
+    },
+    "tree-d-node-1-6-3-3": {
+      "name": "X marks the spot",
+      "description": "Once every session you can bury a single item. Requires a rusty metal box.",
+      "maxPoints": 1,
+      "pointsRequiredInTree": 36,
+      "iconPath": "/icons/skill_icon_54.png",
+      "comment": "The item could be retrieved as a raider's cache next game on that map. Others could find it also emptying the cache."
+    },
+    "tree-a-node-1-6-3-3": {
+      "name": "Red Handed",
+      "description": "Observing a raider with binocular reveals blood stains",
+      "maxPoints": 1,
+      "pointsRequiredInTree": 36,
+      "iconPath": "/icons/skill_icon_49.png",
+      "comment": "Highlights blood stains on gloves if the raider has punched someone to death this game"
+    },
+    "tree-a-node-2-6-3-3": {
+      "name": "Sixth Sense",
+      "description": "You can feel if someone is aiming at you. Has a cooldown between uses.",
+      "maxPoints": 1,
+      "pointsRequiredInTree": 36,
+      "iconPath": "/icons/skill_icon_51.png",
+      "comment": "A visual indicator and a quick double beep, could be heard by others."
+    },
+    "tree-a-node-1-3": {
+      "name": "Trace.exe",
+      "description": "While crouching for 5 seconds, you can detect recent footprints near doors between outside and inside.",
+      "maxPoints": 1,
+      "pointsRequiredInTree": 15,
+      "iconPath": "/icons/skill_icon_48.png",
+      "comment": "Show faint dust, dirt or water marks."
+    },
+    "tree-a-node-2-3": {
+      "name": "Hush Hush",
+      "description": "Silenced light ammo weapons now disable smaller arcs instead of making them explode.",
+      "maxPoints": 1,
+      "pointsRequiredInTree": 15,
+      "iconPath": "/icons/skill_icon_47.png",
+      "comment": "Only indoor arcs"
+    },
+    "tree-a-node-0": {
+      "name": "Sure Footed",
+      "description": "Going uphill won't slow slow you down as much",
+      "comment": "",
+      "maxPoints": 5,
+      "pointsRequiredInTree": 0,
+      "iconPath": "/icons/skill_icon_46.png"
+    }
+  }
+}

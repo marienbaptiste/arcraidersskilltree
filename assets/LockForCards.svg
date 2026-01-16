@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="4.9848504mm"
+   height="6.3061275mm"
+   viewBox="0 0 4.9848504 6.3061275"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="LockForCards.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0449705"
+     inkscape:cx="3.3493767"
+     inkscape:cy="16.746884"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter105-1-2-7-2-5-6"
+       x="-0.013680062"
+       y="-0.021237981"
+       width="1.0273601"
+       height="1.042476">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.027657076"
+         id="feGaussianBlur105-2-3-3-9-2-6" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter106-6-1-9-2-8-2"
+       x="-0.17955368"
+       y="-0.23931419"
+       width="1.3590791"
+       height="1.4786357">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.014731207"
+         id="feGaussianBlur106-2-4-4-7-6-4" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Lock"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-104.06578,-144.16436)">
+    <rect
+       style="display:inline;fill:#090c19;fill-opacity:1;stroke:none;stroke-width:0.899999;filter:url(#filter105-1-2-7-2-5-6)"
+       id="rect103-9-6-1-8-2-1"
+       width="4.8520966"
+       height="3.1253905"
+       x="104.13216"
+       y="147.27872"
+       ry="0.14882609"
+       rx="0.14882812"
+       inkscape:label="center" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#090c19;stroke-width:0.8;stroke-linecap:round;stroke-miterlimit:3.9;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter106-6-1-9-2-8-2)"
+       d="m 105.37237,146.41882 c 0,0 -0.1819,-1.83555 1.20716,-1.81901 1.38906,0.0165 1.20716,1.81901 1.20716,1.81901"
+       id="path104-3-8-0-5-5-0"
+       inkscape:label="top" />
+  </g>
+</svg>
