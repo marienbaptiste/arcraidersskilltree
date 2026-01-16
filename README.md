@@ -28,6 +28,7 @@ An interactive skill tree planner built with React, Next.js, TypeScript, Tailwin
 
 - Node.js 18+
 - npm or yarn
+- Python 3.x (for SVG processing scripts)
 
 ### Installation
 
@@ -38,13 +39,20 @@ An interactive skill tree planner built with React, Next.js, TypeScript, Tailwin
 npm install
 ```
 
-3. Run the development server:
+3. Set up environment variables (optional, for edit mode):
+
+```bash
+cp .env.local.example .env.local
+# Add NEXT_PUBLIC_ENABLE_EDIT_MODE=true to .env.local for skill editing features
+```
+
+4. Run the development server:
 
 ```bash
 npm run dev
 ```
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser
+5. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ## Project Structure
 
@@ -75,16 +83,47 @@ skill-tree-planner/
 
 ### Adding New Skills
 
-Edit `data/skillData.ts` to add or modify skills. Each skill requires:
+Adding new skills requires local development setup and running processing scripts. Follow these steps:
 
-- `id`: Unique identifier
-- `name`: Display name
-- `description`: Skill description
-- `tree`: Which tree it belongs to ('A' or 'B')
-- `prerequisites`: Array of prerequisite skill IDs
-- `x`, `y`: SVG coordinates
-- `radius`: Node size
-- `isKeyNode`: Whether it's a major milestone
+#### Prerequisites
+- Python 3.x installed locally
+- `.env.local` file with edit mode enabled:
+  ```bash
+  cp .env.local.example .env.local
+  echo "NEXT_PUBLIC_ENABLE_EDIT_MODE=true" >> .env.local
+  ```
+
+#### Steps to Add a New Skill
+
+1. **Enable Edit Mode**: Start the development server with edit mode enabled:
+   ```bash
+   npm run dev
+   ```
+   The edit mode button will appear in the bottom toolbar when running on `localhost` in development mode.
+
+2. **Modify the SVG**: Update `assets/ArcRaidersTree.svg` with your new skill node. Ensure:
+   - Nodes are named with the pattern: "Tree X node Y-Z"
+   - Paths are named with the pattern: "Tree X path ..."
+   - Update coordinates and connections as needed
+
+3. **Run Processing Scripts**: Process the updated SVG to extract data:
+   ```bash
+   # On Windows
+   .\scripts\update.bat
+   
+   # On macOS/Linux
+   ./scripts/update.sh
+   ```
+   This will update container positions and generate necessary data files.
+
+4. **Use Edit Mode UI**: 
+   - Click the "EDIT" button in the bottom toolbar
+   - Use the skill editor to add/modify skill properties
+   - Changes are saved to `data/config.json` and related files
+
+5. **Update Skill Data**: If needed, manually edit `data/skillData.ts` for any additional properties not covered by the UI.
+
+**Note**: Edit mode only works on `localhost` in development environment with `NEXT_PUBLIC_ENABLE_EDIT_MODE=true`.
 
 ### Modifying the SVG
 
@@ -123,6 +162,10 @@ Follow the prompts to deploy.
 
 ### Environment Variables
 
+**Development:**
+- `NEXT_PUBLIC_ENABLE_EDIT_MODE=true` - Enables skill editing UI (only works on localhost in development)
+
+**Production:**
 No environment variables are required for basic deployment.
 
 ## Build Commands
