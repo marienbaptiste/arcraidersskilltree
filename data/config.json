@@ -117,9 +117,10 @@
     "tree-b-node-3-1": {
       "name": "A Little Extra",
       "description": "Breaching an object generates resources.",
-      "maxPoints": 5,
+      "maxPoints": 1,
       "pointsRequiredInTree": 0,
-      "iconPath": "/icons/skill_icon_38.png"
+      "iconPath": "/icons/skill_icon_38.png",
+      "comment": ""
     },
     "tree-b-node-3-2": {
       "name": "Loaded Arms",
